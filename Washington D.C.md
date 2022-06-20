@@ -4,7 +4,7 @@
 
 - 
 
-- [Washington D.C official website](https://opendata.dc.gov/datasets/DCGIS::purchase-orders-from-pass/explore) with access to historic checkbooks.
+- [Washington D.C official website](https://opendata.dc.gov/datasets/DCGIS::purchase-orders-from-pass/explore) access to raw data.
 
 
 ### Data Visualizations
