@@ -2,6 +2,14 @@
 
 #### Data files used:
 
+Filters:
+
+9157110 : ADVERTISING, NEWSPAPER / 
+9155190:WORLD WIDE WEB (WWW) ADVERTISING SERVICES / 
+9152200:Communications Marketing Services / 9151500:Broadcasting Services, Television / 
+9150400:Advertising, Outdoor Billboard, etc. / 
+9150340 : PUBLIC RELATIONS SERVICES.
+
 - [Filtered_Purchase_Orders_Purchase_Orders_from_PASS.csv](https://github.com/mmpa8/-Budget_Analysis/files/8944579/Filtered_Purchase_Orders_Purchase_Orders_from_PASS.csv)
 
 
