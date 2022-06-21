@@ -2,7 +2,13 @@
 
 #### Data files used:
 
-- Raw data filtered to include only "(E13) ADVERTISING EXPENSES" for field "Object code"
+- Raw data filtered to include only :
+
+
+| Object code   | 
+| ------------- | 
+|(E13) ADVERTISING EXPENSES| 
+
 
 - [Comptroller of the Massachusetts Commonwealth Spending](https://cthru.data.socrata.com/dataset/Comptroller-of-the-Commonwealth-Spending/pegc-naaa/data) access to raw data.
 
