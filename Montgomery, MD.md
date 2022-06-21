@@ -2,8 +2,13 @@
 
 #### Data files used:
 
-- Filtered Data "Expense Category = Advertising" : [Montgomery_County_Spending_.csv](https://github.com/mmpa8/-Budget_Analysis/files/8946085/Montgomery_County_Spending_.csv)
+- Filtered Data : [Montgomery_County_Spending_.csv](https://github.com/mmpa8/-Budget_Analysis/files/8946085/Montgomery_County_Spending_.csv)
 
+Raw data filtered to include only :
+
+| Expense Category   | 
+| ------------- | 
+|Advertising| 
 
 - [Montgomery Open Data Official Website](https://data.montgomerycountymd.gov/Finance-Tax-Property/County-Spending/vpf9-6irq) with access to raw data.
 
