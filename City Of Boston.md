@@ -4,6 +4,14 @@
 
 - [City_Of_Boston_Advertising__Expenditure_FY_19-22.csv](https://github.com/mmpa8/-Budget_Analysis/files/8946338/City_Of_Boston_Advertising__Expenditure_FY_19-22.csv)
 
+Filtered data only include:
+
+
+| ACCOUNT_DESCR   | 
+| ------------- | 
+|ContServ Advertising| 
+
+
 
 - [City of Boston official website](https://data.boston.gov/dataset/checkbook-explorer) with access to historic checkbooks.
 
